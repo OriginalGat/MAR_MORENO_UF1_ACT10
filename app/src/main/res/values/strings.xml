@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Actividad10</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Enviar">Enviar</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="linearlayout">LinearLayout</string>
+</resources>
